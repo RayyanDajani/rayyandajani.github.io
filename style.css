@@ -11,7 +11,7 @@
   position: absolute;
   top: 175px;
   right: 650;
-  width: 500px;
+  width: 600px;
   height: 50px;
 }
 </style>
@@ -42,14 +42,13 @@ height: 50px;
   top: 400px;
   width: 700px;
   right: 200px;
+}
 </style>
 
 <style>
-    div.siu 
-    position: absolute;
-    top: 400px;
-    right:  930;
-    
+    div.siu {   position: absolute;
+    top: 350px;
+    right:  930;}
+ 
 </style>
-
 
