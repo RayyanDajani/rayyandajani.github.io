@@ -1,0 +1,55 @@
+    <link rel="stylesheet" href="index.html">
+
+
+.header {
+    background-color:   goldenrod;
+}
+
+
+<style> 
+    div.absolute {
+  position: absolute;
+  top: 175px;
+  right: 650;
+  width: 500px;
+  height: 50px;
+}
+</style>
+
+<style>
+   div.lol {
+    position: absolute;
+top:  150px;
+right: 250px;
+height: 50px;
+    }
+   </style>
+
+   <style>
+    div.pola {
+        position: absolute;
+        top:  75px;
+        right: 550px;
+        width:  500 px;
+        height: 50px;
+    }
+
+</style>
+
+<style> 
+    div.las {
+  position: absolute;
+  top: 400px;
+  width: 700px;
+  right: 200px;
+</style>
+
+<style>
+    div.siu 
+    position: absolute;
+    top: 400px;
+    right:  930;
+    
+</style>
+
+
